@@ -1,2 +1,2 @@
 # AprendendoGithub
-Um repositório aberto com a funcionalidade de testar os mecanismos do github
+Um repositório aberto que tem como objetivo de testar as funcionalidades do github
